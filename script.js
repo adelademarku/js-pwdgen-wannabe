@@ -10,8 +10,8 @@ let numero = prompt ("Inserisci 21")
 
 console.log(
     `
-        Nome: ${nome}
-        Cognome: ${cognome}
+        Nome            : ${nome}
+        Cognome         : ${cognome}
         Colore Preferito: ${colorePreferito}
         21              :  ${numero}
     `
