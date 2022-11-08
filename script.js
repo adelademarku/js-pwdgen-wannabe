@@ -33,3 +33,10 @@ let divisione = numero1 / numero2;
 
 console.log( "Risultato divisione: " + divisione);
 
+// CONCATENO LE VARIABILI PER GENERARE UNA PASSWORD
+
+let password = nome + cognome + colorePreferito + divisione ;
+
+console.log(password)
+ 
+
