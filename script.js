@@ -1,3 +1,4 @@
+ 
 //creazione variabile 
 
 let nome = prompt("Inserisci il nome");
@@ -39,4 +40,4 @@ let password = nome + cognome + colorePreferito + divisione ;
 
 console.log(password)
  
-
+document.getElementById("passwordGenerata").innerHTML = password;
